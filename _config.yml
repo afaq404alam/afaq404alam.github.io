@@ -5,9 +5,6 @@ repository: afaq404alam/afaq404alam.github.io
 # Personal info
 name: Afaq Alam Ansari
 title: Data Engineer
-email: afaq404alam@gmail.com
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
 
 # Social links
 twitter_username: Afaq_404
@@ -17,7 +14,7 @@ linkedin_username: afaq-ansari
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
