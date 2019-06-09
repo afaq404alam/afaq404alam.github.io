@@ -1,26 +1,19 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: afaq404alam/afaq404alam.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Afaq Alam Ansari
+title: Data Engineer
+email: afaq404alam@gmail.com
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: Afaq_404
+github_username:  afaq404alam
+facebook_username: afaq.alam.ansari
+linkedin_username: afaq-ansari
 
 # About Section
 # about_title: About Me (Use this to override about section title)
